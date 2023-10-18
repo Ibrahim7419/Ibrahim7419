@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim BERRADI</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="coding" width="480" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3F6LV0REbVmUGTtLhAZr7B&ust=1697748195082000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiPz4S7gIIDFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width="480" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim7419&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim7419" /> </p>
 
