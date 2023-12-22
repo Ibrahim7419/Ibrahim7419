@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MEAN**
 
 - 📫 How to reach me **berradiibrahim2024@gmail.com**
 
